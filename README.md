@@ -1,5 +1,4 @@
-# <img src = "" with="100">
-¡Bienvenido a mi perfil de GitHub! 
+#¡Bienvenido a mi perfil de GitHub! 
 
 ![MiBanner](MiBanner.png)
 
