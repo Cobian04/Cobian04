@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **Si mi editor no usa Fira Code 14, mi cerebro lanza un Syntax Error**
 
-- 👨‍💻 Todos mis proyectos estan disponibles en **[https://github.com/Cobian04](https://github.com/Cobian04)**
+- 👨‍💻 Todos mis proyectos estan disponibles en **[https://github.com/Cobian04](https://cobian04.github.io/Portfolio/)**
 
 
 <h3 align="left">Conecta conmigo:</h3>
