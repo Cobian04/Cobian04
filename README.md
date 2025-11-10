@@ -34,9 +34,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cobian04&show_icons=true&locale=en&layout=compact" alt="Cobian04" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Cobian04&show_icons=true&locale=en" alt="Cobian04" /></p> <p align="right">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzF1c3A3aDRwMjU3ejI3dnFkdGV3c2dwdWtjd215M2planRtNm5oZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8UiYQWoZgafFJaN9hw/giphy.gif" alt="Coding GIF" width="200px">
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Cobian04&show_icons=true&locale=en" alt="Cobian04" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cobian04&" alt="Cobian04" /></p>
 
