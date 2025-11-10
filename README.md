@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-header-banner.png" alt="Banner de Jan Cobian - Desarrollador Frontend">
+  <img src="github-header-banner (1).png" alt="Banner de Jan Cobian - Desarrollador Frontend">
 </p>
 
 ### Desarrollador Frontend | Abierto a oportunidades laborales
